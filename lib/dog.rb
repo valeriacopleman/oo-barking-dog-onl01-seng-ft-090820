@@ -1,6 +1,7 @@
 class Dog 
   
-  def give_name(capital)
+  def give_name(name)
+    
     
   def bark
     puts "woof!"
