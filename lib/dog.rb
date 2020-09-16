@@ -1,7 +1,7 @@
 class Dog 
   
   def give_name(name)
-    name = Dog.new 
+    name.capitalize = Dog.new 
     
   def bark
     puts "woof!"
